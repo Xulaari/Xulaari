@@ -9,8 +9,8 @@ You can reach me: `xula#6989` on discord!
 ## Languages I know:
 
 <p align="">
-  <img width="100" height="100" src="https://unpkg.com/simple-icons@8.12.1/icons/python.svg" alt="Python" style="filter: brightness(0) invert(1)" />
-  <img width="100" height="100" src="https://unpkg.com/simple-icons@8.12.1/icons/lua.svg" alt="Lua" style="filter: brightness(0) invert(1)" />
+<img height="100" width="100" src="https://cdn.simpleicons.org/lua/white" alt="Lua"/>
+<img height="100" width="100" src="https://cdn.simpleicons.org/python/white" alt="Python"/>
 </p>
 
 ### Most projects I do are just for fun.
