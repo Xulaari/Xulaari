@@ -8,6 +8,7 @@
 <div align="center">
 <img height="100" width="100" src="https://cdn.simpleicons.org/lua/white" alt="Lua"/>
 <img height="100" width="100" src="https://cdn.simpleicons.org/python/white" alt="Python"/>
+  <img height="100" width="100" src="https://cdn.simpleicons.org/rust/white" alt="Rust"/>
 </div>
 <div align="center">
   <summary><h2>Most projects I do are just for fun! How about you check some out?</h2></summary>
