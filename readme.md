@@ -12,7 +12,5 @@
 </div>
 <div align="center">
   <summary><h2>Most projects I do are just for fun! How about you check some out?</h2></summary>
-  <a href="https://github.com/Xulaari/RobloxFFlagUnlocker">
-Roblox FFlag Unlocker: A python FPS Unlocker that works by using FFlags.
   </a>
 </div>
